@@ -16,7 +16,7 @@
 
 > In another pane/terminal tab run `yarn test`
 
-#### Using json version of the spec as system of truth 
+#### Using json version of the spec and playwright 
 
 - we have a rest api running at :5000 which exposes a Open API 3.x compliant schema
 - we are using the playwright framework to make the assertions based on the [spec.json](./spec.json) file
