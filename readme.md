@@ -1,7 +1,8 @@
 ### Getting started
 
-1. `yarn install`
-2. `yarn run gen:tsclient && yarn run mockserver`
+1. Use homebrew to install a JDK for example `brew install oracle-jdk`
+2. `yarn install`
+3. `yarn run gen:tsclient && yarn run mockserver`
 
 
 
